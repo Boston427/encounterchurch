@@ -75,7 +75,7 @@
       display: inline-block;
       font-size: 3rem;
       font-weight: 300;
-      padding: 1rem 2rem;
+      padding: 1rem 6rem;
       color: $color-white;
       text-decoration: none;
       text-transform: uppercase;
@@ -95,7 +95,7 @@
     &:hover,
     &:active {
       background-position: 100%;
-      color: $color-primary;
+      color: $color-primary-dark;
       transform: translateX(1rem);
     }
   }

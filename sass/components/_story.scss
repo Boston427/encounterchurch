@@ -4,6 +4,7 @@
   box-shadow: 0 3rem 6rem rgab($color-black, 0.1);
   background-color: rgba($color-white, 0.7);
   border-radius: 3px;
+  border: 1px solid $color-primary-dark;
   padding: 6rem;
   padding-left: 9rem;
   font-size: $default-font-size;
